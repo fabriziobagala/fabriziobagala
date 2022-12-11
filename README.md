@@ -2,8 +2,9 @@
 
 ![GitHub Follow](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge)
 
+- 👨‍💻 I am a .NET Software Engineer
 - 🎓 I graduated with a bachelor's degree in computer science
-- 🔭 I’m currently working on web development
+- 🔭 I’m currently working on web and cloud development
 - 🌱 Always learning new technologies
 - 💬 Ask me about csharp and dotnet
 
