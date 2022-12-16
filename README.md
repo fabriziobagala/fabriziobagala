@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/fabriziobagala/" target="_blank">
+<a href="https://www.linkedin.com/in/fabriziobagala/">
   <img align="left" alt="LinkedIn" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" width="26px" />
 </a>
 
-<a rel="me" href="https://mastodon.social/@fabriziobagala" target="_blank">
+<a rel="me" href="https://mastodon.social/@fabriziobagala">
   <img align="left" alt="Mastodon" src="https://static-cdn.mastodon.social/packs/media/icons/favicon-48x48-c1197e9664ee6476d2715a1c4293bf61.png" width="26px" />
 </a>
 
