@@ -56,7 +56,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </a>
 <a href="https://github.com/" target="_blank">
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />
+  <img align="left" alt="GitHub" width="26px" src="https://github.com/fluidicon.png" />
 </a>
 <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
   <img align="left" alt="Mozilla Firefox" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" width="26px" />
