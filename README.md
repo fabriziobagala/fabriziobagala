@@ -14,10 +14,6 @@
   <img align="left" alt="LinkedIn" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" width="26px" />
 </a>
 
-<a href="https://twitter.com/fabriziobagala">
-  <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="26px" />
-</a>
-
 <br />
 
 ### Languages and Tools:
