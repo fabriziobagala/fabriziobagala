@@ -54,8 +54,11 @@
 <a href="https://github.com/" target="_blank">
   <img align="left" alt="GitHub" width="26px" src="https://github.com/fluidicon.png" />
 </a>
+<a href="https://www.markdownguide.org/" target="_blank">
+  <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
+</a>
 <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
-  <img align="left" alt="Mozilla Firefox" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" width="26px" />
+  <img align="left" alt="Mozilla Firefox" width="26px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" />
 </a>
 
 <br />
