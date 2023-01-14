@@ -3,8 +3,8 @@
 <!-- ![GitHub Follow](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge) -->
 
 - 👨‍💻 I am a .NET Developer
-- 🎓 I graduated with a bachelor's degree in computer science
-- 🔭 I’m currently working on web and cloud development
+- 🎓 I have a bachelor's degree in computer science
+- 🔭 I am currently working on web and cloud development
 - 🌱 Always learning new technologies
 - 💬 Ask me about csharp and dotnet
 
@@ -64,6 +64,5 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziobagala&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=fabriziobagala&show_icons=true&hide_border=true)
 
-![Fabrizio Bagalà's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziobagala&show_icons=true&theme=transparent)
