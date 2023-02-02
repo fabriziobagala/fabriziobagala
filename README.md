@@ -8,14 +8,6 @@
 - 🌱 Always learning new technologies
 - 💬 Ask me about csharp and dotnet
 
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/fabriziobagala/">
-  <img align="left" alt="LinkedIn" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" width="26px" />
-</a>
-
-<br />
-
 ### Languages and Tools:
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
