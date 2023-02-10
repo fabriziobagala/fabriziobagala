@@ -55,5 +55,5 @@
 <br />
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fabriziobagala&show_icons=true&hide_border=true)
+![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziobagala&show_icons=true&theme=transparent)
 
