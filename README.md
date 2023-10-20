@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fabrizio
 
-<!-- ![GitHub Follow](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge) -->
+![GitHub Follow](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge)
 
 - 🎓 I have a bachelor's degree in computer science
 - 🔭 I am currently working on web and cloud development
@@ -27,9 +27,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="26px" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img align="left" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="26px" />
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="26px" />
 </a>
@@ -45,9 +42,6 @@
 <a href="https://github.com/" target="_blank">
   <img align="left" alt="GitHub" width="26px" src="https://github.com/fluidicon.png" />
 </a>
-<a href="https://www.markdownguide.org/" target="_blank">
-  <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-</a>
 <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
   <img align="left" alt="Mozilla Firefox" width="26px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" />
 </a>
@@ -56,4 +50,3 @@
 <br />
 
 ![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziobagala&show_icons=true&theme=transparent)
-
