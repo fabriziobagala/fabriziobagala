@@ -21,8 +21,8 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank">
   <img align="left" alt="Microsoft Visual Studio" src="https://visualstudio.microsoft.com/wp-content/uploads/2022/10/Visual-Studio_Icon.svg" width="26px" />
 </a>
-<a href="https://www.jetbrains.com/rider/" target="_blank">
-  <img align="left" alt="JetBrains Rider" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" width="26px" />
+<a href="[https://visualstudio.microsoft.com/](https://code.visualstudio.com/)" target="_blank">
+  <img align="left" alt="Microsoft Visual Studio Code" src="https://code.visualstudio.com/apple-touch-icon.png" width="26px" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="26px" />
@@ -30,8 +30,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="26px" />
 </a>
-<a href="https://www.w3schools.com/sql/" target="_blank">
-  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<a href="https://www.mysql.com/" target="_blank">
+  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
