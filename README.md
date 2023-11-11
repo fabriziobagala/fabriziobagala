@@ -42,9 +42,6 @@
 <a href="https://github.com/" target="_blank">
   <img align="left" alt="GitHub" width="26px" src="https://github.com/fluidicon.png" />
 </a>
-<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
-  <img align="left" alt="Mozilla Firefox" width="26px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" />
-</a>
 
 <br />
 <br />
