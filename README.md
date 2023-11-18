@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Fabrizio</h1>
-<h3 align="center">A passionate developer from Sicily <a href="https://emoji.gg/emoji/6291-sicily"><img src="https://cdn3.emoji.gg/emojis/6291-sicily.png" width="16px" height="16px" alt="sicily"></a></h3>
+<h3 align="center">A passionate developer from Italy 🇮🇹</h3>
 
 ![GitHub Follow](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge)
 
