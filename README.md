@@ -1,13 +1,18 @@
-### Hi there 👋, I'm Fabrizio
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Fabrizio</h1>
+<h3 align="center">A passionate developer from Sicily <a href="https://emoji.gg/emoji/6291-sicily"><img src="https://cdn3.emoji.gg/emojis/6291-sicily.png" width="16px" height="16px" alt="sicily"></a></h3>
 
-<!-- ![GitHub Follow](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge) -->
+![GitHub Follow](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge)
+
+## 👨‍💻 About me:
+
+Hi, I'm Fabrizio! 😊 I'm a .NET Software Engineer with 6 years of experience, specialized in backend development but with some frontend skills as well.
 
 - 🎓 I have a bachelor's degree in computer science
 - 🔭 I am currently working on web and cloud development
 - 🌱 Always learning new technologies
 - 💬 Ask me about csharp and dotnet
 
-### Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img align="left" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="26px" />
@@ -46,4 +51,16 @@
 <br />
 <br />
 
+## 📈 My Stats:
+
+<a href="https://github.com/fabriziobagala/github-readme-stats">
+  <img alt="Fabrizio's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziobagala&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=true" />
+</a>
+
+<br/>
+
+[![Fabrizio's GitHub streak](http://github-readme-streak-stats.herokuapp.com?user=fabriziobagala&theme=github-dark)](https://git.io/streak-stats)
+
 ![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziobagala&show_icons=true&theme=transparent)
+
+[![Fabrizio's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabriziobagala&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
