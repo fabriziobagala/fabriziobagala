@@ -51,7 +51,7 @@ Hi, I'm Fabrizio! 😊 I'm a .NET Software Engineer with 6 years of experience, 
 <br />
 <br />
 
-## 📈 My Stats:
+## 📈 Stats:
 
 <a href="https://github.com/fabriziobagala/github-readme-stats">
   <img alt="Fabrizio's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziobagala&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=true" />
