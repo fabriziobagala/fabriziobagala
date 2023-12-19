@@ -6,7 +6,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/fabriziobagala?label=GitHub%20Followers&style=for-the-badge)
 
-## 👨‍💻 About me
+## 👨‍💼 About me
 
 - 🎓 I have a bachelor's degree in computer science
 - 🔭 I am currently working on web and cloud development
@@ -15,7 +15,7 @@
 
 ## 🛠️ Languages and tools
 
-[![](https://img.shields.io/badge/c%23-179f20?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/c%23-179f20?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![](https://img.shields.io/badge/.net-512bd4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
 [![](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -53,7 +53,7 @@
 
 ![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziobagala&show_icons=true&theme=transparent)
 
-[![Fabrizio's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabriziobagala&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Fabrizio's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabriziobagala&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ---
 
