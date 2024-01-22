@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Fabrizio</h1>
 <h3 align="center">A passionate developer from Italy 🇮🇹</h3>
 
-<!--<br/>
+<!--<br/>-->
 
-![Profile views](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/fabriziobagala?label=GitHub%20Followers&style=for-the-badge)-->
+<!--![Profile views](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge)-->
+<!--![GitHub followers](https://img.shields.io/github/followers/fabriziobagala?label=GitHub%20Followers&style=for-the-badge)-->
 
 ## 👨‍💼 About me
 
