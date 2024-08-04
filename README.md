@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Fabrizio</h1>
 <h3 align="center">A passionate developer from Italy 🇮🇹</h3>
 
-<!--<br/>-->
+<br/>
 
-<!--![Profile views](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge)-->
-<!--![GitHub followers](https://img.shields.io/github/followers/fabriziobagala?label=GitHub%20Followers&style=for-the-badge)-->
+![Profile views](https://komarev.com/ghpvc/?username=fabriziobagala&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/fabriziobagala?label=GitHub%20Followers&style=for-the-badge)
 
 ## 👨‍💼 About me
 
@@ -34,12 +34,12 @@
 [![](https://img.shields.io/badge/sonarqube-4e9bcd?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)
 [![](https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
-## 📝 Blog posts
+<!--## 📝 Blog posts
 
 - [CORS in ASP.NET](https://dev.to/fabriziobagala/cors-in-aspnet-core-4hl2)
 - [Options Pattern in ASP.NET](https://dev.to/fabriziobagala/options-pattern-in-net-2abg)
 - [Object Mapping in .NET](https://dev.to/fabriziobagala/object-mapping-in-net-3326)
-- [Response Compression in ASP.NET](https://dev.to/fabriziobagala/response-compression-in-aspnet-8ba)
+- [Response Compression in ASP.NET](https://dev.to/fabriziobagala/response-compression-in-aspnet-8ba)-->
 
 ## 📈 GitHub stats
 
@@ -53,8 +53,6 @@
 
 ![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziobagala&show_icons=true&theme=transparent)
 
-<!-- [![Fabrizio's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabriziobagala&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
 ---
 
-<p align="center"> Copyright (c) Fabrizio Bagalà. All rights reserved. Made with ❤️. </p>
+<p align="center"> Copyright © Fabrizio Bagalà. All rights reserved. Made with ❤️. </p>
