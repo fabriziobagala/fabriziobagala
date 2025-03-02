@@ -7,15 +7,11 @@
 <h3 align="center">Feel free to connect with me about Microsoft stack or tech in general!</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/fabriziobagala" target="_blank" style="text-decoration: none">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
-  </a>
-  <a href="https://dev.to/fabriziobagala" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white" alt="DEV.to"/>
-  </a>
-  <a href="https://github.com/fabriziobagala" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  
+  [![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/fabriziobagala)
+  [![](https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white)](https://dev.to/fabriziobagala)
+  [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabriziobagala)
+  
 </div>
 
 ## 👨‍💼 About Me
@@ -34,20 +30,20 @@ I am a .NET developer passionate about building scalable web applications and co
 - ✍️ I share my knowledge and experiences through technical blog posts
 - 🌐 Interested in application performance optimization and security best practices-->
 
-## 🛠️ Languages and tools
+## 🛠️ Languages and Tools
 
 <details open>
   <summary><strong>Programming Languages</strong></summary>
   <br/>
   <img src="https://img.shields.io/badge/c%23-179f20?style=for-the-badge&amp;logo=csharp&amp;logoColor=white">
 </details>
-<br/>
+
 <details open>
   <summary><strong>Frameworks & Libraries</strong></summary>
   <br/>
   <img src="https://img.shields.io/badge/.net-512bd4?style=for-the-badge&logo=.net&logoColor=white">
 </details>
-<br/>
+
 <details open>
   <summary><strong>Web Development</strong></summary>
   <br/>
@@ -55,7 +51,7 @@ I am a .NET developer passionate about building scalable web applications and co
   <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
   <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e">
 </details>
-<br/>
+
 <details open>
   <summary><strong>Databases</strong></summary>
   <br/>
@@ -63,7 +59,7 @@ I am a .NET developer passionate about building scalable web applications and co
   <img src="https://img.shields.io/badge/microsoft sql server-cc2927?style=for-the-badge&amp;logo=microsoft sql server&amp;logoColor=white">
   <img src="https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white">
 </details>
-<br/>
+
 <details open>
   <summary><strong>Tools</strong></summary>
   <br/>
@@ -95,7 +91,7 @@ I am a .NET developer passionate about building scalable web applications and co
 [![](https://img.shields.io/badge/sonarqube-4e9bcd?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)
 [![](https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) -->
 
-## 📝 Blog posts
+## 📝 Blog Posts
 
 - [CORS in ASP.NET](https://dev.to/fabriziobagala/cors-in-aspnet-core-4hl2)
 - [Options Pattern in ASP.NET](https://dev.to/fabriziobagala/options-pattern-in-net-2abg)
