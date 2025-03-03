@@ -111,14 +111,6 @@ I am a .NET developer passionate about building scalable web applications and co
 
 ➡️ [More blog posts...](https://dev.to/fabriziobagala)
 
-## 🚀 Current Projects
-
-<div align="center">
-  <a href="https://github.com/fabriziobagala/HeaderForge" style="text-decoration: none">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabriziobagala&repo=HeaderForge&theme=transparent" alt="HeaderForge repository" />
-  </a>
-</div>
-
 ## 📈 GitHub Stats
 
 <div align="center">
