@@ -45,6 +45,16 @@ I am a .NET developer passionate about building scalable web applications and co
 </details>
 
 <details open>
+  <summary><strong>Testing</strong></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NUnit-008C1A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MSTest-5E5E5E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Moq-E84C3D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NSubstitute-1469C8?style=for-the-badge">
+</details>
+
+<details open>
   <summary><strong>Web Development</strong></summary>
   <br/>
   <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
@@ -66,6 +76,7 @@ I am a .NET developer passionate about building scalable web applications and co
   <img src="https://img.shields.io/badge/visual studio-5c2d91?style=for-the-badge&amp;logo=visual studio&amp;logoColor=white">
   <img src="https://img.shields.io/badge/visual studio code-007acc?style=for-the-badge&amp;logo=visual studio code&amp;logoColor=white">
   <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github copilot-1a1e22?style=for-the-badge&logo=github copilot&logoColor=white">
   <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/sonarqube-4e9bcd?style=for-the-badge&logo=sonarqube&logoColor=white">
 </details>
