@@ -4,7 +4,7 @@
 </div>
 
 <!-- Social Section -->
-<h3 align="center">Connect with me to discuss .NET, Microsoft technologies, or anything tech-related!</h3>
+<h3 align="center">Connect with me to discuss Microsoft technologies or anything tech-related!</h3>
 
 <div align="center">
   
