@@ -11,7 +11,6 @@
   [![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/fabriziobagala)
   [![](https://img.shields.io/badge/DEV-4e9bcd?style=for-the-badge&logo=DEV.to&logoColor=white)](https://dev.to/fabriziobagala)
   [![](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabriziobagala)
-  
 </div>
 
 ## 👨‍💼 About Me
@@ -35,50 +34,57 @@ I am a .NET developer passionate about building scalable web applications and co
 <details open>
   <summary><strong>Programming Languages</strong></summary>
   <br/>
-  <img src="https://img.shields.io/badge/c%23-179f20?style=for-the-badge&amp;logo=csharp&amp;logoColor=white">
+  
+  ![C#](https://img.shields.io/badge/c%23-179f20?style=for-the-badge&logo=csharp&logoColor=white)
 </details>
 
 <details open>
   <summary><strong>Frameworks & Libraries</strong></summary>
   <br/>
-  <img src="https://img.shields.io/badge/.net-512bd4?style=for-the-badge&logo=.net&logoColor=white">
+  
+  ![.NET](https://img.shields.io/badge/.net-512bd4?style=for-the-badge&logo=.net&logoColor=white)
 </details>
 
 <details open>
   <summary><strong>Testing</strong></summary>
   <br/>
-  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/NUnit-008C1A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MSTest-5E5E5E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Moq-E84C3D?style=for-the-badge">
-  <img src="https://img.shields.io/badge/NSubstitute-1469C8?style=for-the-badge">
+  
+  ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
+  ![NUnit](https://img.shields.io/badge/NUnit-008C1A?style=for-the-badge)
+  ![MSTest](https://img.shields.io/badge/MSTest-5E5E5E?style=for-the-badge)
+  ![Moq](https://img.shields.io/badge/Moq-E84C3D?style=for-the-badge)
+  ![NSubstitute](https://img.shields.io/badge/NSubstitute-1469C8?style=for-the-badge)
 </details>
 
 <details open>
   <summary><strong>Web Development</strong></summary>
   <br/>
-  <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e">
+  
+  ![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 </details>
 
 <details open>
   <summary><strong>Databases</strong></summary>
   <br/>
-  <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/microsoft sql server-cc2927?style=for-the-badge&amp;logo=microsoft sql server&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white">
+  
+  ![MySQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-cc2927?style=for-the-badge)
+  ![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
 </details>
 
 <details open>
   <summary><strong>Tools</strong></summary>
   <br/>
-  <img src="https://img.shields.io/badge/visual studio-5c2d91?style=for-the-badge&amp;logo=visual studio&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/visual studio code-007acc?style=for-the-badge&amp;logo=visual studio code&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github copilot-1a1e22?style=for-the-badge&logo=github copilot&logoColor=white">
-  <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/sonarqube-4e9bcd?style=for-the-badge&logo=sonarqube&logoColor=white">
+  
+  ![Visual Studio](https://img.shields.io/badge/visual%20studio-5c2d91?style=for-the-badge)
+  ![VS Code](https://img.shields.io/badge/visual%20studio%20code-007acc?style=for-the-badge)
+  ![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-1a1e22?style=for-the-badge&logo=github%20copilot&logoColor=white)
+  ![Postman](https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+  ![SonarQube](https://img.shields.io/badge/sonarqube-4e9bcd?style=for-the-badge&logo=sonarqube&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jira&logoColor=white)
 </details>
 
 <!-- ## 🛠️ Languages and tools
