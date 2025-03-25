@@ -112,7 +112,8 @@ I am a .NET developer passionate about building scalable web applications and co
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabriziobagala&theme=github_dark" alt="Contribution Graph" />
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabriziobagala&theme=transparent)
 </div>
 
 <div align="center">
