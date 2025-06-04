@@ -10,7 +10,6 @@
   
   [![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/fabriziobagala)
   [![](https://img.shields.io/badge/DEV-4e9bcd?style=for-the-badge&logo=DEV.to&logoColor=white)](https://dev.to/fabriziobagala)
-  [![](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabriziobagala)
 </div>
 
 ## 👨‍💼 About Me
