@@ -7,7 +7,6 @@
 <div align="center">
   
   [![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/fabriziobagala)
-  [![](https://img.shields.io/badge/bluesky-1185FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/fabriziobagala.bsky.social)
   <!--[![](https://img.shields.io/badge/DEV-4e9bcd?style=for-the-badge&logo=DEV.to&logoColor=white)](https://dev.to/fabriziobagala)-->
 </div>
 
