@@ -7,7 +7,7 @@
 <div align="center">
   
   [![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/fabriziobagala)
-  [![](https://img.shields.io/badge/DEV-4e9bcd?style=for-the-badge&logo=DEV.to&logoColor=white)](https://dev.to/fabriziobagala)
+  <!--[![](https://img.shields.io/badge/DEV-4e9bcd?style=for-the-badge&logo=DEV.to&logoColor=white)](https://dev.to/fabriziobagala)-->
 </div>
 
 ## 👨‍💼 About Me
@@ -26,20 +26,34 @@ I am a .NET developer passionate about building scalable web applications and co
 - ✍️ I share my knowledge and experiences through technical blog posts
 - 🌐 Interested in application performance optimization and security best practices-->
 
-## 🛠️ Languages and Tools
+## 🧰 Tech Stack
 
 <details open>
   <summary><strong>Programming Languages</strong></summary>
   <br/>
 
   ![C#](https://img.shields.io/badge/c%23-179f20?style=for-the-badge&logo=csharp&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 </details>
 
 <details open>
-  <summary><strong>Frameworks & Libraries</strong></summary>
+  <summary><strong>Frameworks and Libraries</strong></summary>
   <br/>
   
   ![.NET](https://img.shields.io/badge/.net-512bd4?style=for-the-badge&logo=.net&logoColor=white)
+  ![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-512bd4?style=for-the-badge)
+  ![Entity Framework Core](https://img.shields.io/badge/entity%20framework%20core-512bd4?style=for-the-badge)
+  ![SignalR](https://img.shields.io/badge/signalr-512bd4?style=for-the-badge)
+  ![Dapper](https://img.shields.io/badge/dapper-8A0F0A?style=for-the-badge)
+  ![Serilog](https://img.shields.io/badge/serilog-FF2519?style=for-the-badge)
+  ![FluentValidation](https://img.shields.io/badge/fluent%20validation-2880B9?style=for-the-badge)
+  ![Refit](https://img.shields.io/badge/refit-2CB673?style=for-the-badge)
+  ![MediatR](https://img.shields.io/badge/mediatr-42A8D4?style=for-the-badge)
+  ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=%23333333)
+  ![Polly](https://img.shields.io/badge/polly-F9AD1A?style=for-the-badge)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 </details>
 
 <details open>
@@ -48,35 +62,34 @@ I am a .NET developer passionate about building scalable web applications and co
   
   ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)
   ![NUnit](https://img.shields.io/badge/NUnit-008C1A?style=for-the-badge)
-  ![MSTest](https://img.shields.io/badge/MSTest-5E5E5E?style=for-the-badge)
   ![Moq](https://img.shields.io/badge/Moq-E84C3D?style=for-the-badge)
   ![NSubstitute](https://img.shields.io/badge/NSubstitute-1469C8?style=for-the-badge)
-</details>
-
-<details open>
-  <summary><strong>Web Development</strong></summary>
-  <br/>
-  
-  ![HTML5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+  ![Bogus](https://img.shields.io/badge/bogus-010000?style=for-the-badge)
+  ![Testcontainers](https://img.shields.io/badge/testcontainers-027F9E?style=for-the-badge)
 </details>
 
 <details open>
   <summary><strong>Databases</strong></summary>
   <br/>
-  
+
+  ![Microsoft SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-cc2927?style=for-the-badge)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-cc2927?style=for-the-badge)
   ![MongoDB](https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+</details>
+
+<details open>
+  <summary><strong>IDE and Editors</strong></summary>
+  <br/>
+  
+  ![Visual Studio](https://img.shields.io/badge/visual%20studio-5c2d91?style=for-the-badge)
+  ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007acc?style=for-the-badge)
 </details>
 
 <details open>
   <summary><strong>Tools</strong></summary>
   <br/>
   
-  ![Visual Studio](https://img.shields.io/badge/visual%20studio-5c2d91?style=for-the-badge)
-  ![VS Code](https://img.shields.io/badge/visual%20studio%20code-007acc?style=for-the-badge)
   ![Git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-323330?style=for-the-badge&logo=github&logoColor=white)
