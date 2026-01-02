@@ -98,30 +98,17 @@ I am a .NET developer passionate about building scalable web applications and co
 
 ## 📈 GitHub Stats
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziobagala&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=true" alt="Fabrizio's top languages" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriziobagala&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" alt="Fabrizio's GitHub stats" />
-</div>
-
-<!-- <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=fabriziobagala&theme=github-dark&hide_border=true" alt="Fabrizio's GitHub streak" />
-</div> -->
-
-## 📊 Contribution Graph
-
-<div align="center">
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabriziobagala&theme=transparent)
-</div>
-
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabriziobagala&theme=transparent" alt="Most commit language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabriziobagala&theme=transparent" alt="GitHub stats (summary cards)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabriziobagala&theme=transparent" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabriziobagala&theme=github-compact&hide_border=true" alt="Activity Graph" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4e9bcd&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
-</div>
+</p>
 
 ---
 
-<p align="center"> Copyright © Fabrizio Bagalà. All rights reserved. Made with ❤️. </p>
+<p align="center">© 2026 Fabrizio Bagalà. All rights reserved. Made with ❤️.</p>
