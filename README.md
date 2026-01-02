@@ -1,7 +1,6 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e9bcd,100:512bd4&height=200&section=header&text=Fabrizio%20Bagalà&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e9bcd,100:512bd4&height=200&section=header&text=Hi,%20I'm%20Fabrizio%20Bagalà%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" width="100%"/>
+</p>
 
 <!-- Social Section -->
 <h3 align="center">Connect with me to discuss Microsoft technologies or anything tech-related!</h3>
