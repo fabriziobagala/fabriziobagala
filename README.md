@@ -109,6 +109,10 @@ I am a .NET developer passionate about building scalable web applications and co
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4e9bcd&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </p>
 
+<!--## ⚡ Recent Activities
+
+1.-->
+
 ---
 
 <p align="center">© 2026 Fabrizio Bagalà. All rights reserved. Made with ❤️.</p>
