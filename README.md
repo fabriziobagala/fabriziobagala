@@ -14,7 +14,7 @@ I'm a .NET Software Engineer who enjoys turning ideas into reliable software.
 
 Most of my time goes into building web APIs and backend services with C# and .NET, with a strong focus on clean architecture and codebases that stay maintainable as they grow. I'm a big fan of automated testing (unit + integration), and I like putting "production mindset" details first: performance, resilience, observability, and sensible CI/CD.
 
-I also enjoy sharing what I learn along the way - you'll find articles, tutorials, and other insights on my blog https://dev.to/fabriziobagala.
+I also enjoy sharing what I learn along the way - you'll find articles, tutorials, and other insights on my blog https://dev.to/fabrizio-bagala.
 
 If you're passionate about Microsoft technologies and open to connecting or exploring potential collaborations, feel free to reach out!
 
