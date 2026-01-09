@@ -18,10 +18,6 @@ I also enjoy sharing what I learn along the way - you'll find articles, tutorial
 
 If you're passionate about Microsoft technologies and open to connecting or exploring potential collaborations, feel free to reach out!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabriziobagala/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"></a>
-</p>
-
 ## 🧰 Tech Stack
 
 **Programming Languages:**
