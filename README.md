@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a .NET Software Engineer who enjoys turning ideas into reliable software.
+I'm a Senior Software Engineer who enjoys turning ideas into reliable software.
 
 Most of my time goes into building web APIs and backend services with C# and .NET, with a strong focus on clean architecture and codebases that stay maintainable as they grow. I'm a big fan of automated testing (unit + integration), and I like putting "production mindset" details first: performance, resilience, observability, and sensible CI/CD.
 
