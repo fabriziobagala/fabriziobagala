@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e9bcd,100:512bd4&height=200&section=header&text=Hi,%20I'm%20Fabrizio%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e9bcd,100:512bd4&height=200&section=header&text=Hello,%20I'm%20Fabrizio%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" width="100%"/>
 </p>
 
 <p align="center">
@@ -95,16 +95,6 @@ If you're passionate about Microsoft technologies and open to connecting or expl
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabriziobagala&theme=transparent" alt="GitHub stats (summary cards)" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabriziobagala&theme=transparent" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabriziobagala&theme=github-compact&hide_border=true" alt="Activity Graph" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center" style="witdh:100%">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabriziobagala&theme=dracula&no-frame=true&no-bg=false&margin-w=8&margin-h=8" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4e9bcd&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </p>
 
 ---
